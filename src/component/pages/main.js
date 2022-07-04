@@ -23,7 +23,7 @@ const Main = () => {
             text-2xl
             '
           >
-            Create quiz or join somebody by code
+            Create quiz or take quiz by code
             <div className='
               pt-8
               md:flex
